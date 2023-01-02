@@ -1,5 +1,5 @@
 # TheBeginning
 
-A first repository for the beginning of my joureny into software engineering. 
+This is my first repository that houses every project written during the beginning of my programming journey. 
 
-My starting language is python and each project that finds its way to this repository has been fully coded by myself.
+My starting language is python but I intend to learn C#, C++ and Javascript.
