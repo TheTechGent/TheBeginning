@@ -1,5 +1,5 @@
 # TheBeginning
 
-This is my first repository that houses every project written during the beginning of my programming journey. 
+This is my first repository that will house every project I write as I begin my programming journey. 
 
-My starting language is python but I intend to learn C#, C++ and Javascript.
+My starting language is python but I intend to learn C# next (with a slight detour into javascript) and then eventually C++. 
